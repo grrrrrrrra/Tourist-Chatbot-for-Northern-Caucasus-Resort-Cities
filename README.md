@@ -1,5 +1,6 @@
+# BangzuKavkaz
 
-# Tourist Chatbot for Northern Caucasus Resort Cities
+## Tourist Chatbot for Northern Caucasus Resort Cities
 
 This project is a multilingual Telegram chatbot designed to help users explore popular attractions in resort cities of the Northern Caucasus. The bot supports Russian and Chinese languages, providing up-to-date information about various cities and landmarks in the region. Administrators have access to special commands for managing users and viewing popular search queries.
 
